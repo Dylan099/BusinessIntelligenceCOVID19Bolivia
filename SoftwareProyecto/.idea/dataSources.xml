@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="LaPazBus:target:classes:hibernate.cfg.xml/Hibernate" uuid="d9d443e0-2dcb-4cec-b605-af10c9d66bae">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Fernanda/Desktop/SEMESTRE/SoftwareProyecto/LaPazBus/target/classes/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbtest_lpbus</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="LaPazBus:src:main:resources:hibernate.cfg.xml/Hibernate" uuid="9bf4c9a6-4018-4d9d-9190-b6c43569e554">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Fernanda/Desktop/SEMESTRE/SoftwareProyecto/LaPazBus/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbtest_lpbus</jdbc-url>
+    </data-source>
+  </component>
+</project>
